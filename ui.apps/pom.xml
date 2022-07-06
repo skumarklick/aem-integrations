@@ -120,12 +120,12 @@
             <version>${project.version}</version>
         </dependency>
 
-        <dependency>
+        <!--<dependency>
             <groupId>com.aem.geeks.integrations</groupId>
             <artifactId>aem-integrations.ui.frontend</artifactId>
             <version>${project.version}</version>
             <type>zip</type>
-        </dependency>
+        </dependency>-->
 
         <dependency>
             <groupId>com.aem.geeks.integrations</groupId>
@@ -139,11 +139,11 @@
             <artifactId>core.wcm.components.core</artifactId>
         </dependency>
 
-        <dependency>
+        <!--<dependency>
             <groupId>com.adobe.cq</groupId>
             <artifactId>core.wcm.components.content</artifactId>
             <type>zip</type>
-        </dependency>
+        </dependency>-->
         <dependency>
             <groupId>com.adobe.cq</groupId>
             <artifactId>core.wcm.components.config</artifactId>
